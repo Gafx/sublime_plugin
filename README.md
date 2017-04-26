@@ -1,2 +1,2 @@
 # sublime_plugin
-##[show datetime on status bar](./showDatetimeOnStatusBar/showDatetimeOnStatusBar)
+##[show datetime on status bar](./showDatetimeOnStatusBar/showDatetimeOnStatusBar.py)
